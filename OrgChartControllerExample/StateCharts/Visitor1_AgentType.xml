@@ -1,0 +1,7 @@
+<XtraSerializer version="1.0" application="Simio">
+  <property name="OnStartupAction">ppzz</property>
+  <property name="OnDestroyAction" isnull="true" />
+  <property name="OnArrivalAction" isnull="true" />
+  <property name="OnBeforeStepAction" isnull="true" />
+  <property name="OnStepAction" isnull="true" />
+</XtraSerializer>

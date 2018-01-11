@@ -1,0 +1,7 @@
+<XtraSerializer version="1.0" application="Simio">
+  <property name="OnStartupAction">aagfk</property>
+  <property name="OnDestroyAction">b</property>
+  <property name="OnArrivalAction">c</property>
+  <property name="OnBeforeStepAction">d</property>
+  <property name="OnStepAction">e</property>
+</XtraSerializer>

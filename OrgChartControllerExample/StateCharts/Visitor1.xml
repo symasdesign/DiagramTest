@@ -1,0 +1,10 @@
+<XtraSerializer version="17.2.4.0">
+  <Items>
+    <Item1 ItemKind="DiagramRoot" CanvasSizeMode="Fill" PageSize="1587,2245" PageMargin="0,0,0,0" ShowRulers="false" ShowPageBreaks="false">
+      <Children>
+        <Item1 Position="760,761.818176269531" Size="370,168.181823730469" Shape="BasicFlowchartShapes.Process" Content="" ItemKind="StateShape" Color="" EntryAction="" ExitAction="" Name="" ShowName="false" Ignore="false" Description="" />
+        <Item2 Position="360,830" Size="110,50" Shape="BasicFlowchartShapes.Process" Content="" ItemKind="StateShape" Color="" EntryAction="" ExitAction="" Name="" ShowName="true" Ignore="false" Description="" />
+      </Children>
+    </Item1>
+  </Items>
+</XtraSerializer>
