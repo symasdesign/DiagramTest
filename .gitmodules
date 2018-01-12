@@ -1,0 +1,3 @@
+[submodule "stateless"]
+	path = stateless
+	url = https://github.com/symasdesign/stateless.git
